@@ -1,0 +1,36 @@
+# Change 'comments' to true for Disqus comments
+#disqus:
+#  comments: false
+#  disqus_shortname: 'millennial-3'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+#google-ID: 'UA-112060364-2'
+
+menu:
+- {name: 'Research Interests', url: 'interests'}
+- {name: 'Publications',       url: 'publications'}
+- {name: 'Technical',          url: 'tech'}
+- {name: 'Blogs',              url: 'blogs'}
+- {name: 'About',              url: 'about'}
+- {name: 'Contact',            url: 'contact'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'wechat', link:     ''}
+- {icon: 'twitter', link:    'https://twitter.com/HuangZJCharles'}
+- {icon: 'facebook', link:   'https://www.facebook.com/wong.charles.779'}
+- {icon: 'instagram', link:  'https://instagram.com/wong_tzekin'}
+- {icon: 'envelope', link:   'mailto:charles.hzijian+mypage@gmail.com'}
+#- {icon: 'rss-square', link: 'feed.xml'}
+# - {icon: 'rss-square', link: 'rss-feed.xml'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'You may also enjoy...'
+
+post_date_prefix: 'Written on'
